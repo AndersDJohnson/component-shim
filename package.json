@@ -1,0 +1,36 @@
+{
+  "name": "component-shim",
+  "version": "0.1.0",
+  "description": "A shim for loading component modules without component.",
+  "main": "lib/component-shim.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AndersDJohnson/component-shim.git"
+  },
+  "keywords": [
+    "component",
+    "shim",
+    "require",
+    "module",
+    "exports",
+    "module-exports",
+    "commonjs",
+    "common-js"
+  ],
+  "author": "Anders Johnson",
+  "homepage": "https://github.com/AndersDJohnson/component-shim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndersDJohnson/component-shim/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.7.2",
+    "load-grunt-tasks": "~0.2.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}
