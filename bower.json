@@ -2,7 +2,7 @@
   "name": "component-shim",
   "version": "0.1.0",
   "main": [
-    "./dist/component-shim.js",
+    "./dist/component-shim.js"
   ],
   "ignore": [
     "node_modules",
